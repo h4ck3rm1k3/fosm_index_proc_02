@@ -1,0 +1,1 @@
+this reads the node index and stores it into the database.
